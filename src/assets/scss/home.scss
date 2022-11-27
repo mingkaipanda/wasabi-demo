@@ -1,0 +1,17 @@
+select{
+    text-align: left;
+    width: 50%;
+    height: 50px;
+    position: relative;
+}
+
+input[type=text]{
+    margin: 10px;
+    height: 25px;
+    border: solid 1px #acacac;
+    border-radius: 0.25rem;
+}
+
+input[type=radio]{
+    cursor: pointer;
+}
